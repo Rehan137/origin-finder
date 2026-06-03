@@ -1,0 +1,21 @@
+# Compiled files
+origin_finder
+*.o
+*.exe
+*.out
+
+# Generated files
+*.log
+*.txt
+*.pem
+*.report
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
