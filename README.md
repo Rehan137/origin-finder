@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rehan137/origin-finder/main/ChatGPT.png" alt="Origin Finder Logo" width="500">
+  <br>
+  <br>
+</div>
+
 # 🔍 Origin Finder - Advanced Origin IP Discovery Tool
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
